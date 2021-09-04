@@ -1,3 +1,14 @@
+:root{
+  --dark-blue: #1E1F42;
+  --bronze: #B67233;
+  --white: #FFFFFF;
+}
+
+html{
+  background-color: var(--dark-blue);
+}
+
+
 @font-face {
   font-family: bahnhof-regular;
   src: url('bahnhof-regular-regular.otf');
@@ -5,4 +16,5 @@
 
 h1 {
   font-family: bahnhof-regular;
+  color: var(--white);
 }
