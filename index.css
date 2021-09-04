@@ -1,5 +1,9 @@
-@font-face { font-family: bahnhof-regular; src: url('bahnhof-regular-regular.otf');}
-      h1 {
-         font-family: bahnhof-regular;
-      }
+@font-face {
+  font-family: bahnhof-regular;
+  src: url('bahnhof-regular-regular.otf');
+}
 
+h1 {
+  font-family: bahnhof-regular;
+  color:blueviolet;
+}
