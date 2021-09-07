@@ -30,6 +30,9 @@ ul{
   margin: 0;
 }
 
+#main-content {
+  max-width: 100%;
+}
 
 #logo{
   width:100%; 
