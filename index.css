@@ -2,6 +2,7 @@
   --dark-blue: #1E1F42;
   --bronze: #B67233;
   --white: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
 }
 
 html{
@@ -14,7 +15,25 @@ html{
   src: url('bahnhof-regular-regular.otf');
 }
 
-h1 {
+.bahnhof-regular {
   font-family: bahnhof-regular;
-  color: var(--dark-blue);
+}
+
+.permanent-marker {
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+#logo{
+  width:100%; 
+  max-width: 32rem;
+  float: right;
+  height: auto; 
 }
