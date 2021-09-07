@@ -1,11 +1,13 @@
-:root{
+:root {
   --dark-blue: #1E1F42;
   --bronze: #B67233;
   --white: #FFFFFF;
   font-family: 'Roboto', sans-serif;
+
+
 }
 
-html{
+html {
   background-color: var(--white);
 }
 
@@ -17,26 +19,30 @@ html{
 
 .bahnhof-regular {
   font-family: bahnhof-regular;
+  font-size: xx-large;
 }
 
 .permanent-marker {
   font-family: 'Permanent Marker', cursive;
+  font-size: xx-large;
 }
 
 
-ul{
+ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 #main-content {
-  max-width: 100%;
+  max-width: 80ch;
 }
 
-#logo{
-  width:100%; 
+#logo {
+  width: 100%;
   max-width: 32rem;
-  float: right;
-  height: auto; 
+  height: auto;
+  margin: auto;
 }
+
+
