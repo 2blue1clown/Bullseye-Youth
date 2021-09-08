@@ -46,9 +46,8 @@ ul {
 }
 
 #marlow-logo{
-  float:right;
+  margin:auto;
 }
-
 .video {
   height:auto;
   
