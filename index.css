@@ -38,11 +38,12 @@ ul {
   max-width: 80ch;
 }
 
-#logo {
+.image {
   width: 100%;
-  max-width: 32rem;
   height: auto;
   margin: auto;
+  border-radius: 20%;
+  padding: 4rem;
 }
 
 #marlow-logo{
